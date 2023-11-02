@@ -1,2 +1,2 @@
 # Joonastic
-Solana NFT project
+
